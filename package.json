@@ -1,0 +1,14 @@
+{
+  "name": "crates",
+  "version": "0.0.1",
+  "description": "Create React App TypeScript Eslint Standard",
+  "main": "index.js",
+  "author": "Erik Müller <e.mueller.mail@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "fs-extra": "8.0.0",
+    "inquirer": "6.3.1",
+    "yarn-install": "1.0.0"
+  }
+}
