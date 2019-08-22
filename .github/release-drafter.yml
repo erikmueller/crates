@@ -10,6 +10,6 @@ categories:
     label: 'chore'
 change-template: '- $TITLE (#$NUMBER)'
 template: |
-  ## Changes
+  ## What's Changed
 
   $CHANGES
