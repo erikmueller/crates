@@ -1,3 +1,6 @@
+branches:
+  - 'release-drafter'
+
 categories:
   - title: '🚀 Features'
     label: 'feature'
